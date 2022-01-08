@@ -8,11 +8,11 @@
 		<version>2.6.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>sg.nus.nus</groupId>
-	<artifactId>ws11</artifactId>
+	<groupId>tfip.modserver</groupId>
+	<artifactId>my1stspringboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ws11</name>
-	<description>Demo project for Spring Boot</description>
+	<name>my1stspringboot</name>
+	<description>My first java spring boot website</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
